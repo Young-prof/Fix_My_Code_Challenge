@@ -9,24 +9,10 @@ Fix my code is a new type of project, where we'll jump into an existing code bas
 This was a project provided by ALX in which I was challenged with debugging various programs. The challenges spanned a variety of programming languages from C to Python to Javascript to Ruby and more, some of which I was familiar with, others of which I was not. The specific list of projects contained as follows: 
 - [Fix_My_Code_Challenge](https://github.com/Karlie-crypto/Fix_My_Code_Challenge/tree/main/0x00-challenge)
 
-### AUTHOR:
-<details>
-    <summary>KARLIE MOYO</summary>
-    <ul>
-        <li>
-            <a href="https://github.com/Karlie-crypto">Github</a>
-        </li>
-        <li>
-            <a href="https://twitter.com/karlieemoyo">Twitter</a>
-        </li>
-        <li>
-            <a href="https://karlieemoyo@gmail.com">e-mail</a>
-        </li>
-    </ul>
-</details>
+
 
 ---
 
-### Acknowledgements  :pray:
+### Acknowledgements 
 ___
-All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry. Visit this <a href="https://www.alxafrica.com/software-engineering-2022">website</a> for further information.
+This project was completed entirely as required by the ALX-SE curriculum. ALX Africa is an online full-stack software engineering school that prepares students for IT industry professions through project-based peer learning. Check out this <a href="https://www.alxafrica.com/software-engineering-2022">website</a> for further information.
